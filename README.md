@@ -29,4 +29,4 @@
 - Telegram: @notwhkuv
 - Email: *(whokilleduverdosze4@gmail.com)
 
-- [Demo Receipts](projects/demo-receipt) — формирование payload для чеков (income / income_return / status)
+- [Demo Receipts](https://github.com/uverdoz/demo-receipt) — формирование payload для чеков (income / income_return / status)
