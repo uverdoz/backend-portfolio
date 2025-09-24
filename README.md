@@ -32,5 +32,3 @@
 - [Demo Receipts](projects/demo-receipt) — формирование payload для чеков (income / income_return / status)
 
 - [projects/fastapi-receipt](projects/fastapi-receipt) — мини-API на FastAPI: формирование JSON для приход/возврат/статус.
-
-- [projects/fastapi-receipt](projects/fastapi-receipt) — мини-API на FastAPI: формирование JSON для приход/возврат/статус.
